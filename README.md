@@ -107,7 +107,6 @@ A full-stack portfolio generation platform built with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anandgoudapatil&show_icons=true&locale=en" alt="Anandgoudapatil GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandgoudapatil" alt="Anandgoudapatil GitHub Streak"/>
 </p>
 

@@ -47,7 +47,7 @@ Software Development Engineer | Full-Stack Developer | Java • Spring Boot • 
 
 #### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,mongodb,redis,sqlite&perline=8" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&perline=8" alt="Databases"/>
 </p>
 
 #### DevOps & Infrastructure

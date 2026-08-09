@@ -111,9 +111,6 @@ A full-stack portfolio generation platform built with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandgoudapatil" alt="Anandgoudapatil GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anandgoudapatil&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
 
 ---
 

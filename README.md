@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anandgouda Patil</h1>
+<h1 align="center">Hi 👋, I'm Anandgouda Patil — Software Development Engineer</h1>
 
-<h3 align="center">
-Software Development Engineer | Full-Stack Developer | Java • Spring Boot • React.js • AI
-</h3>
+<p align="center">
+  I build enterprise self‑service platforms and workflow automation that scale — turning processes from days into minutes. I work at Texas Instruments on systems used by 35,000+ employees and focus on backend systems, AI agents, and secure enterprise integrations.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anandgouda-patil-a536111ba">
@@ -18,11 +18,11 @@ Software Development Engineer | Full-Stack Developer | Java • Spring Boot • 
 ### 👨‍💻 About Me
 
 - 🔭 Software Development Engineer building **enterprise self-service platforms and workflow automation**
-- 🏢 Currently working at **Texas Instruments**
+- 🏢 Currently at **Texas Instruments**
 - 👥 Built platforms supporting **35,000+ employees**
-- ⚡ Automated enterprise workflows from **2 days to under 2 minutes**
+- ⚡ Automated workflows from **2 days to under 2 minutes**
 - 🤖 Working with **AI agents, Model Context Protocol (MCP), and Microsoft Graph API**
-- 🔐 Experienced with **RBAC, SSO, authorization, and enterprise application security**
+- 🔐 Experienced in **RBAC, SSO, authorization, and enterprise application security**
 - 🚀 Interested in **full-stack development, backend systems, AI agents, and DevOps**
 - 📫 Reach me at **anandgoudampatil1999@gmail.com**
 
@@ -67,15 +67,14 @@ Software Development Engineer | Full-Stack Developer | Java • Spring Boot • 
 ### 🚀 Featured Project
 
 #### ProFolio Builder
+A full-stack portfolio generator — **React · Node · Express · MongoDB**  
+Demo / Repo: https://github.com/Anandgoudapatil/profolio-builder (replace with actual link)
 
-A full-stack portfolio generation platform built with:
-
-**React.js · Node.js · Express.js · MongoDB**
-
-- 🎨 Customizable portfolio websites
+- 🎨 Customizable portfolio templates
 - 📱 Responsive user interfaces
-- 🧩 Template-based design
-- 📤 Export functionality
+- 🧩 Template-based design + export functionality
+
+(Add screenshots or a demo link to increase conversions)
 
 ---
 
@@ -89,7 +88,7 @@ A full-stack portfolio generation platform built with:
 | 💻 Software Automation | Reduced manual license request processing by **50%** |
 | 🔐 Security | Implemented **RBAC and SSO-based authorization** |
 | 🤖 AI Integration | Built **MCP tools for enterprise AI agents** |
-| 🚀 DevOps | Dockerized applications and implemented **Jenkins CI/CD** |
+| 🚀 DevOps | Dockerized apps and implemented **Jenkins CI/CD** |
 
 ---
 
@@ -97,7 +96,7 @@ A full-stack portfolio generation platform built with:
 
 - 🤖 Agentic AI
 - 🔌 Model Context Protocol (MCP)
-- ☁️ Cloud-native application architecture
+- ☁️ Cloud-native architecture
 - ☸️ Kubernetes
 - 🚀 Scalable backend systems
 - 🔐 Enterprise identity and authorization
@@ -107,9 +106,10 @@ A full-stack portfolio generation platform built with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandgoudapatil" alt="Anandgoudapatil GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandgoudapatil&show_icons=true&locale=en" alt="Anandgoudapatil GitHub Stats"/>
+  <!-- Consider removing the streak badge below or replacing with a stable alternative -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandgoudapatil" alt="GitHub Streak"/> -->
 </p>
-
 
 ---
 

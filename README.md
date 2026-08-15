@@ -102,14 +102,6 @@ A full-stack portfolio generation platform built with:
 - 🚀 Scalable backend systems
 - 🔐 Enterprise identity and authorization
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandgoudapatil" alt="Anandgoudapatil GitHub Streak"/>
-</p>
-
 
 ---
 
